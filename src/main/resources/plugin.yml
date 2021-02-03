@@ -1,0 +1,8 @@
+name: ForsakenCore
+version: ${project.version}
+main: com.forsakensurvival.forsakencore.ForsakenCore
+api-version: 1.16
+load: STARTUP
+authors: [ Duplexes ]
+description: The core plugin for the Forsaken plugin family.
+website: ForsakenSurvival.com
