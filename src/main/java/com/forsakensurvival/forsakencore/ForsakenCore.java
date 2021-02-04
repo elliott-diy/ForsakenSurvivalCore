@@ -22,17 +22,17 @@ public final class ForsakenCore extends JavaPlugin {
         getCommand("").setExecutor(new gmaCommand());
         getCommand("").setExecutor(new gmspCommand());
         // Moderation Commands
-        getCommand("").setExecutor(new VanishCommand());
-        getCommand("").setExecutor(new FlyCommand());
-        getCommand("").setExecutor(new TempMuteCommand())
-        getCommand("").setExecutor(new MuteCommand());
-        getCommand("").setExecutor(new UnMuteCommand());
+        //getCommand("").setExecutor(new VanishCommand());
+        //getCommand("").setExecutor(new FlyCommand());
+        //getCommand("").setExecutor(new TempMuteCommand())
+        //getCommand("").setExecutor(new MuteCommand());
+        //getCommand("").setExecutor(new UnMuteCommand());
         getCommand("Maintenance").setExecutor(new MaintenanceCommand());
         // Basic Chat Commands
-        getCommand("").setExecutor(new DiscordCommand());
-        getCommand("").setExecutor(new WebsiteCommand());
-        getCommand("").setExecutor(new RulesCommand());
-        getCommand("").setExecutor(new PingCommand());
+        //getCommand("").setExecutor(new DiscordCommand());
+        //getCommand("").setExecutor(new WebsiteCommand());
+        //getCommand("").setExecutor(new RulesCommand());
+        //getCommand("").setExecutor(new PingCommand());
     }
 
     @Override
