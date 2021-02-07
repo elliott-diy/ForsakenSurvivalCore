@@ -6,3 +6,11 @@ load: STARTUP
 authors: [ Duplexes ]
 description: The core plugin for the Forsaken plugin family.
 website: ForsakenSurvival.com
+commands:
+  fly:
+  forsakencore:
+  gmc:
+  gma:
+  gms:
+  gmsp:
+  maintenance:
